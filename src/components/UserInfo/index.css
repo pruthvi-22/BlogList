@@ -1,0 +1,22 @@
+.image-container {
+  height: 100px;
+  width: 100px;
+}
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 30px;
+}
+.user-des {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+}
